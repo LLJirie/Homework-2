@@ -18,11 +18,14 @@ a mobile responsive portfolio to showmy coding work and let visitors know a litt
 ! {image-Alec} (imagefolder/h25.jpeg)
 ! {image-Shep} (imagefolder/h26.jpeg)
 
+
 ### Link
 Check it out!
 https://leisabryan.github.io/bootstrap-portfolio/
+-[validat_e your html](https://validator.w3.org/#validate_by_input).
+https://www.toptal.com/designers/subtlepatterns/concrete-seamless/
 
- 
-videos
+### Videos 
+
 https://www.youtube.com/watch?v=x_wlcp-W27c 
 <!-- https://www.youtube.com/watch?v=Y9rMbKHoTBI 
